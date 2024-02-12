@@ -376,7 +376,7 @@ def main():
     else:
         st.subheader("About")
         #Add Image
-        img=Image.open(r'C:\Users\saapr\Downloads\download.jpg')
+        img=Image.open(r'download.jpg')
         st.image(img)
         about="""
         Create by Saahil Pradhan , Rushil Sunil Kharate , Livya Falodia , Anjali Kumari
